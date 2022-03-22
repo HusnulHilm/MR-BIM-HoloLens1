@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\Il2CppOutputProject\IL2CPP\libil2cpp\mono\MonoPosixHelper.cpp"
+#include "D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\ThreadPoolMonitorThread.cpp"
+#include "D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\ThreadPoolWorkerThread.cpp"
+#include "D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms-io-poll.cpp"
+#include "D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms-io.cpp"
+#include "D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms.cpp"

@@ -1,0 +1,25 @@
+﻿  Building GameAssembly.dll with MsvcWinRtToolChain
+  	Msvc Install Version: 15.0
+  	Msvc Install SDK Directory: C:\Program Files (x86)\Windows Kits\10
+  	Msvc Linker Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\link.exe
+  	Msvc Compiler Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\cl.exe
+  
+  	Output directory: D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_BIM\build\bin\Win32\Release
+  	Cache directory: D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_BIM\build\obj\il2cppOutputProject\Win32\Release
+  Assembly-CSharp_CodeGen.c
+  Il2CppCompilerCalculateTypeValues3.cpp
+  Assembly-CSharp.cpp
+  Il2CppMetadataUsage.c
+  Il2CppTypeDefinitions.c
+  Il2CppAttributes.cpp
+  ObjectFiles: 416 of which compiled: 6
+  	Time Compile: 3160 milliseconds Il2CppAttributes.cpp
+  	Time Compile: 2917 milliseconds Il2CppTypeDefinitions.c
+  	Time Compile: 1407 milliseconds Il2CppMetadataUsage.c
+  	Time Compile: 547 milliseconds Assembly-CSharp.cpp
+  	Time Compile: 518 milliseconds Il2CppCompilerCalculateTypeValues3.cpp
+  	Time Compile: 463 milliseconds Assembly-CSharp_CodeGen.c
+  Total compilation time: 4181 milliseconds.
+  Creating library D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_BIM\build\obj\il2cppOutputProject\Win32\Release\linkresult_7031191AB87CE1E579C735204FBC3072\GameAssembly.lib and object D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_BIM\build\obj\il2cppOutputProject\Win32\Release\linkresult_7031191AB87CE1E579C735204FBC3072\GameAssembly.exp
+  Total link time: 9212 milliseconds.
+  Cleaned up 14 object files.

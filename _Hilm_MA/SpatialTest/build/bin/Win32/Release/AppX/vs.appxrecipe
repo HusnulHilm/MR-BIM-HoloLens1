@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-4TKFI14</Machine>
+    <WindowsUser>Hilm</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>3265f7bd-85c6-4075-afef-ba034659f300</PackageIdentityName>
+    <PackageIdentityPublisher>CN=DefaultCompany</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\build\obj\ToggleSpatialTest\Win32\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\build\bin\Win32\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>A782DF7EA0715236EC06863B9303CC1A8A195EC29B6E2475785384C238E989B6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ToggleSpatialTest_1.0.0.0_x86__pzq3xp76mxafg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ToggleSpatialTest_pzq3xp76mxafg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ToggleSpatialTest</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=DefaultCompany</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\build\bin\Win32\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-12-09T13:28:03.154</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\build\bin\Win32\Release\ToggleSpatialTest.exe">
+      <PackagePath>ToggleSpatialTest.exe</PackagePath>
+      <Modified>2021-12-09T13:28:01.707</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity\Hub\Editor\2019.4.33f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\x86\Release\UnityPlayer.winmd">
+      <PackagePath>UnityPlayer.winmd</PackagePath>
+      <Modified>2021-11-19T20:05:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity\Hub\Editor\2019.4.33f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\x86\Release\UnityPlayer.dll">
+      <PackagePath>UnityPlayer.dll</PackagePath>
+      <Modified>2021-11-19T20:05:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\build\bin\Win32\Release\ToggleSpatialTest.winmd">
+      <PackagePath>ToggleSpatialTest.winmd</PackagePath>
+      <Modified>2021-12-09T13:28:01.648</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-19T19:35:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-19T19:35:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-19T19:35:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-19T19:35:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-19T19:35:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-19T19:35:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-11-19T19:35:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+      <Modified>2021-12-09T13:23:38.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\etc\mono\mconfig\config.xml">
+      <PackagePath>Data\il2cpp_data\etc\mono\mconfig\config.xml</PackagePath>
+      <Modified>2021-11-19T19:35:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\boot.config">
+      <PackagePath>Data\boot.config</PackagePath>
+      <Modified>2021-12-09T13:23:37.096</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\etc\mono\2.0\machine.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\machine.config</PackagePath>
+      <Modified>2021-11-19T19:35:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\etc\mono\2.0\web.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\web.config</PackagePath>
+      <Modified>2021-11-19T19:35:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\etc\mono\4.0\machine.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\machine.config</PackagePath>
+      <Modified>2021-11-19T19:35:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\etc\mono\4.0\web.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\web.config</PackagePath>
+      <Modified>2021-11-19T19:35:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\etc\mono\4.5\machine.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\machine.config</PackagePath>
+      <Modified>2021-11-19T19:35:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\etc\mono\4.5\web.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\web.config</PackagePath>
+      <Modified>2021-11-19T19:35:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\globalgamemanagers">
+      <PackagePath>Data\globalgamemanagers</PackagePath>
+      <Modified>2021-12-09T13:23:32.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\level0">
+      <PackagePath>Data\level0</PackagePath>
+      <Modified>2021-12-09T13:23:29.567</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\etc\mono\config">
+      <PackagePath>Data\il2cpp_data\etc\mono\config</PackagePath>
+      <Modified>2021-11-19T19:35:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\Resources\unity default resources">
+      <PackagePath>Data\Resources\unity default resources</PackagePath>
+      <Modified>2021-11-19T19:35:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\Resources\unity_builtin_extra">
+      <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
+      <Modified>2021-12-09T13:23:37.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\globalgamemanagers.assets">
+      <PackagePath>Data\globalgamemanagers.assets</PackagePath>
+      <Modified>2021-12-09T13:23:32.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\resources.assets">
+      <PackagePath>Data\resources.assets</PackagePath>
+      <Modified>2021-12-09T13:23:32.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\sharedassets0.assets">
+      <PackagePath>Data\sharedassets0.assets</PackagePath>
+      <Modified>2021-12-09T13:23:36.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\level0.resS">
+      <PackagePath>Data\level0.resS</PackagePath>
+      <Modified>2021-12-09T13:23:29.562</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\resources.assets.resS">
+      <PackagePath>Data\resources.assets.resS</PackagePath>
+      <Modified>2021-12-09T13:23:32.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\sharedassets0.assets.resS">
+      <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
+      <Modified>2021-12-09T13:23:36.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\nativePlugins.txt">
+      <PackagePath>Data\nativePlugins.txt</PackagePath>
+      <Modified>2021-12-09T13:24:39.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\resources.resource">
+      <PackagePath>Data\resources.resource</PackagePath>
+      <Modified>2021-12-09T13:23:32.820</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\sharedassets0.resource">
+      <PackagePath>Data\sharedassets0.resource</PackagePath>
+      <Modified>2021-12-09T13:23:36.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\etc\mono\browscap.ini">
+      <PackagePath>Data\il2cpp_data\etc\mono\browscap.ini</PackagePath>
+      <Modified>2021-11-19T19:35:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx</PackagePath>
+      <Modified>2021-11-19T19:35:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx</PackagePath>
+      <Modified>2021-11-19T19:35:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx</PackagePath>
+      <Modified>2021-11-19T19:35:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\etc\mono\2.0\settings.map">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\settings.map</PackagePath>
+      <Modified>2021-11-19T19:35:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\etc\mono\4.0\settings.map">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\settings.map</PackagePath>
+      <Modified>2021-11-19T19:35:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\etc\mono\4.5\settings.map">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\settings.map</PackagePath>
+      <Modified>2021-11-19T19:35:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\etc\mono\2.0\Browsers\Compat.browser">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\Browsers\Compat.browser</PackagePath>
+      <Modified>2021-11-19T19:35:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\etc\mono\4.0\Browsers\Compat.browser">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\Browsers\Compat.browser</PackagePath>
+      <Modified>2021-11-19T19:35:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\etc\mono\4.5\Browsers\Compat.browser">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\Browsers\Compat.browser</PackagePath>
+      <Modified>2021-11-19T19:35:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\Metadata\global-metadata.dat">
+      <PackagePath>Data\il2cpp_data\Metadata\global-metadata.dat</PackagePath>
+      <Modified>2021-12-09T13:24:36.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat">
+      <PackagePath>Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat</PackagePath>
+      <Modified>2021-12-09T13:23:57.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\il2cpp_data\Resources\mscorlib.dll-resources.dat">
+      <PackagePath>Data\il2cpp_data\Resources\mscorlib.dll-resources.dat</PackagePath>
+      <Modified>2021-12-09T13:23:57.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\Data\UnitySubsystems\WindowsMRXRSDK\UnitySubsystemsManifest.json">
+      <PackagePath>Data\UnitySubsystems\WindowsMRXRSDK\UnitySubsystemsManifest.json</PackagePath>
+      <Modified>2021-11-19T14:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\WindowsMRXRSDK.dll">
+      <PackagePath>WindowsMRXRSDK.dll</PackagePath>
+      <Modified>2021-11-19T14:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\ToggleSpatialTest\AudioPluginMsHRTF.dll">
+      <PackagePath>AudioPluginMsHRTF.dll</PackagePath>
+      <Modified>2021-11-19T14:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\build\bin\Win32\Release\GameAssembly.dll">
+      <PackagePath>GameAssembly.dll</PackagePath>
+      <Modified>2021-12-09T13:27:57.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\SpatialTest\build\bin\Win32\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2021-12-09T13:28:02.428</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

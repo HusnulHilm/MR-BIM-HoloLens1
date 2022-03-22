@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-4TKFI14</Machine>
+    <WindowsUser>Hilm</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>3265f7bd-85c6-4075-afef-ba034659f300</PackageIdentityName>
+    <PackageIdentityPublisher>CN=DefaultCompany</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\build\obj\Hilm_MRTK_SceneUnderstanding\Win32\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\build\bin\Win32\Release\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\build\bin\Win32\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\build\bin\Win32\Release\Hilm_MRTK_SceneUnderstanding.exe">
+      <PackagePath>Hilm_MRTK_SceneUnderstanding.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity\Hub\Editor\2019.4.33f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\x86\Release\UnityPlayer.winmd">
+      <PackagePath>UnityPlayer.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity\Hub\Editor\2019.4.33f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\x86\Release\UnityPlayer.dll">
+      <PackagePath>UnityPlayer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\build\bin\Win32\Release\Hilm_MRTK_SceneUnderstanding.winmd">
+      <PackagePath>Hilm_MRTK_SceneUnderstanding.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\etc\mono\mconfig\config.xml">
+      <PackagePath>Data\il2cpp_data\etc\mono\mconfig\config.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\boot.config">
+      <PackagePath>Data\boot.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\etc\mono\2.0\machine.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\machine.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\etc\mono\2.0\web.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\web.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\etc\mono\4.0\machine.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\machine.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\etc\mono\4.0\web.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\web.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\etc\mono\4.5\machine.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\machine.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\etc\mono\4.5\web.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\web.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\globalgamemanagers">
+      <PackagePath>Data\globalgamemanagers</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level0">
+      <PackagePath>Data\level0</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level1">
+      <PackagePath>Data\level1</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level10">
+      <PackagePath>Data\level10</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level11">
+      <PackagePath>Data\level11</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level12">
+      <PackagePath>Data\level12</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level13">
+      <PackagePath>Data\level13</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level14">
+      <PackagePath>Data\level14</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level15">
+      <PackagePath>Data\level15</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level16">
+      <PackagePath>Data\level16</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level17">
+      <PackagePath>Data\level17</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level18">
+      <PackagePath>Data\level18</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level2">
+      <PackagePath>Data\level2</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level3">
+      <PackagePath>Data\level3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level4">
+      <PackagePath>Data\level4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level5">
+      <PackagePath>Data\level5</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level6">
+      <PackagePath>Data\level6</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level7">
+      <PackagePath>Data\level7</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level8">
+      <PackagePath>Data\level8</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level9">
+      <PackagePath>Data\level9</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\etc\mono\config">
+      <PackagePath>Data\il2cpp_data\etc\mono\config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\Resources\unity default resources">
+      <PackagePath>Data\Resources\unity default resources</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\Resources\unity_builtin_extra">
+      <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\globalgamemanagers.assets">
+      <PackagePath>Data\globalgamemanagers.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\resources.assets">
+      <PackagePath>Data\resources.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets0.assets">
+      <PackagePath>Data\sharedassets0.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets1.assets">
+      <PackagePath>Data\sharedassets1.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets10.assets">
+      <PackagePath>Data\sharedassets10.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets11.assets">
+      <PackagePath>Data\sharedassets11.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets12.assets">
+      <PackagePath>Data\sharedassets12.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets13.assets">
+      <PackagePath>Data\sharedassets13.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets14.assets">
+      <PackagePath>Data\sharedassets14.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets15.assets">
+      <PackagePath>Data\sharedassets15.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets16.assets">
+      <PackagePath>Data\sharedassets16.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets17.assets">
+      <PackagePath>Data\sharedassets17.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets18.assets">
+      <PackagePath>Data\sharedassets18.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets2.assets">
+      <PackagePath>Data\sharedassets2.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets3.assets">
+      <PackagePath>Data\sharedassets3.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets4.assets">
+      <PackagePath>Data\sharedassets4.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets5.assets">
+      <PackagePath>Data\sharedassets5.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets6.assets">
+      <PackagePath>Data\sharedassets6.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets7.assets">
+      <PackagePath>Data\sharedassets7.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets8.assets">
+      <PackagePath>Data\sharedassets8.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets9.assets">
+      <PackagePath>Data\sharedassets9.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level1.resS">
+      <PackagePath>Data\level1.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\level5.resS">
+      <PackagePath>Data\level5.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\resources.assets.resS">
+      <PackagePath>Data\resources.assets.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets0.assets.resS">
+      <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets1.assets.resS">
+      <PackagePath>Data\sharedassets1.assets.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets11.assets.resS">
+      <PackagePath>Data\sharedassets11.assets.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets12.assets.resS">
+      <PackagePath>Data\sharedassets12.assets.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets13.assets.resS">
+      <PackagePath>Data\sharedassets13.assets.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets14.assets.resS">
+      <PackagePath>Data\sharedassets14.assets.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets2.assets.resS">
+      <PackagePath>Data\sharedassets2.assets.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets3.assets.resS">
+      <PackagePath>Data\sharedassets3.assets.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets4.assets.resS">
+      <PackagePath>Data\sharedassets4.assets.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets5.assets.resS">
+      <PackagePath>Data\sharedassets5.assets.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets7.assets.resS">
+      <PackagePath>Data\sharedassets7.assets.resS</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\nativePlugins.txt">
+      <PackagePath>Data\nativePlugins.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\resources.resource">
+      <PackagePath>Data\resources.resource</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets0.resource">
+      <PackagePath>Data\sharedassets0.resource</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets11.resource">
+      <PackagePath>Data\sharedassets11.resource</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets13.resource">
+      <PackagePath>Data\sharedassets13.resource</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets14.resource">
+      <PackagePath>Data\sharedassets14.resource</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets2.resource">
+      <PackagePath>Data\sharedassets2.resource</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\sharedassets7.resource">
+      <PackagePath>Data\sharedassets7.resource</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\etc\mono\browscap.ini">
+      <PackagePath>Data\il2cpp_data\etc\mono\browscap.ini</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\etc\mono\2.0\settings.map">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\settings.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\etc\mono\4.0\settings.map">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\settings.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\etc\mono\4.5\settings.map">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\settings.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\etc\mono\2.0\Browsers\Compat.browser">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\Browsers\Compat.browser</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\etc\mono\4.0\Browsers\Compat.browser">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\Browsers\Compat.browser</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\etc\mono\4.5\Browsers\Compat.browser">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\Browsers\Compat.browser</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\Metadata\global-metadata.dat">
+      <PackagePath>Data\il2cpp_data\Metadata\global-metadata.dat</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat">
+      <PackagePath>Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\il2cpp_data\Resources\mscorlib.dll-resources.dat">
+      <PackagePath>Data\il2cpp_data\Resources\mscorlib.dll-resources.dat</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\Data\UnitySubsystems\WindowsMRXRSDK\UnitySubsystemsManifest.json">
+      <PackagePath>Data\UnitySubsystems\WindowsMRXRSDK\UnitySubsystemsManifest.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\WindowsMRXRSDK.dll">
+      <PackagePath>WindowsMRXRSDK.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\Hilm_MRTK_SceneUnderstanding\AudioPluginMsHRTF.dll">
+      <PackagePath>AudioPluginMsHRTF.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\build\bin\Win32\Release\GameAssembly.dll">
+      <PackagePath>GameAssembly.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\build\bin\Win32\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

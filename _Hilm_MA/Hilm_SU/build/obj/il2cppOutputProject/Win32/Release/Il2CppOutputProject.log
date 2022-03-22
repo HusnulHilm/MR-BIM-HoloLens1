@@ -1,0 +1,61 @@
+﻿  Building GameAssembly.dll with MsvcWinRtToolChain
+  	Msvc Install Version: 15.0
+  	Msvc Install SDK Directory: C:\Program Files (x86)\Windows Kits\10
+  	Msvc Linker Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\link.exe
+  	Msvc Compiler Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\cl.exe
+  
+  	Output directory: D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\build\bin\Win32\Release
+  	Cache directory: D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\build\obj\il2cppOutputProject\Win32\Release
+  mscorlib_CodeGen.c
+  Il2CppGenericMethodDefinitions.c
+  Microsoft.MixedReality.Toolkit.SDK_CodeGen.c
+  Microsoft.MixedReality.Toolkit_CodeGen.c
+  Il2CppMetadataUsage.c
+  Il2CppCompilerCalculateTypeValuesTable.cpp
+  UnityEngine.CoreModule.cpp
+  Il2CppCompilerCalculateTypeValues.cpp
+  Il2CppCompilerCalculateTypeValues1.cpp
+  UnityEngine.UI_CodeGen.c
+  UnityEngine.CoreModule_CodeGen.c
+  Unity.TextMeshPro_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Examples_CodeGen.c
+  System_CodeGen.c
+  UnityEngine.UIElementsModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.InputSystem_CodeGen.c
+  Il2CppCompilerCalculateTypeValues2.cpp
+  Il2CppCompilerCalculateTypeValues3.cpp
+  Microsoft.MixedReality.Toolkit.SDK.Experimental.Interactive_CodeGen.c
+  UnityEngine.AudioModule.cpp
+  System.Runtime.WindowsRuntime_CodeGen.c
+  Unity.XR.WindowsMixedReality_CodeGen.c
+  UnityEngine.XRModule_CodeGen.c
+  UnityEngine.AndroidJNIModule_CodeGen.c
+  UnityEngine.TextCoreModule_CodeGen.c
+  System.Core_CodeGen.c
+  Unity.XR.ARSubsystems_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Async_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.XRSDK_CodeGen.c
+  Unity.XR.Management_CodeGen.c
+  UnityEngine.AudioModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem_CodeGen.c
+  UnityEngine.JSONSerializeModule_CodeGen.c
+  UnityEngine.SubsystemsModule_CodeGen.c
+  Il2CppMetadataRegistration.c
+  Il2CppCodeRegistration.cpp
+  Il2CppTypeDefinitions.c
+  Il2CppAttributes.cpp
+  ObjectFiles: 416 of which compiled: 38
+  	Time Compile: 5118 milliseconds Il2CppAttributes.cpp
+  	Time Compile: 4785 milliseconds Il2CppTypeDefinitions.c
+  	Time Compile: 3554 milliseconds Il2CppCompilerCalculateTypeValues2.cpp
+  	Time Compile: 2872 milliseconds Il2CppCompilerCalculateTypeValues1.cpp
+  	Time Compile: 2706 milliseconds Il2CppCompilerCalculateTypeValues.cpp
+  	Time Compile: 2359 milliseconds Il2CppMetadataUsage.c
+  	Time Compile: 1960 milliseconds UnityEngine.CoreModule.cpp
+  	Time Compile: 1027 milliseconds Il2CppCompilerCalculateTypeValuesTable.cpp
+  	Time Compile: 804 milliseconds UnityEngine.AudioModule.cpp
+  	Time Compile: 724 milliseconds Il2CppCompilerCalculateTypeValues3.cpp
+  Total compilation time: 5523 milliseconds.
+  Creating library D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\build\obj\il2cppOutputProject\Win32\Release\linkresult_6A279978F13065C1CA9F0CDE0318D61F\GameAssembly.lib and object D:\Education\1. Master Thesis\Apps\_Hilm_MA\Hilm_SU\build\obj\il2cppOutputProject\Win32\Release\linkresult_6A279978F13065C1CA9F0CDE0318D61F\GameAssembly.exp
+  Total link time: 7837 milliseconds.
+  Cleaned up 78 object files.
