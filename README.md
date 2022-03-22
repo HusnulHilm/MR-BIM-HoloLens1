@@ -22,15 +22,15 @@ Using HoloLens as Mixed Reality Device for BIM as well as Interior Design
  *) in all above actions, the gravity must be considered as the general force on the object 
  
 abbreviations: 
-AR: Augmented Reality 
-VR: Virtual Reality 
-MRTK: Mixed Reality Toolkit 
-SLAM: Simultaneous Localization and Mapping 
+AR: Augmented Reality; 
+VR: Virtual Reality; 
+MRTK: Mixed Reality Toolkit; 
+SLAM: Simultaneous Localization and Mapping. 
 
-Student: Husnul Hilm Bin Fahrurrazi
-University: University of Applied Science Zittau/Görlitz, Germany
-Program of study: Master Mechatronic 
-Supervisor HSZG: Prof. Dr. rer. nat. Stefan Bischoff 
-2nd Supervisor: Ing. Reza Moezzi 
+Student: Husnul Hilm Bin Fahrurrazi;
+University: University of Applied Science Zittau/Görlitz, Germany;
+Program of study: Master Mechatronic; 
+Supervisor HSZG: Prof. Dr. rer. nat. Stefan Bischoff; 
+2nd Supervisor: Ing. Reza Moezzi. 
 
 
