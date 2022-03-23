@@ -1,5 +1,5 @@
 # MR-BIM-HoloLens1
-A project of combining MR technology, BIM, and HoloLens 1.
+A project of combining MR technology, BIM, and HoloLens 1. Project's name: Hilm_BIM
 
 This project is based on a task of my master thesis that can be referred down below. Basically, this small project shows the potential of designing an interior with HoloLens 1. Compared to the other apps at the market out there, this project focus more on the learning process on how to develop a MR-BIM application with Unity. For this project, I am using:
 1. Unity version 2019.4.33f
